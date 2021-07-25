@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1567304928359",
+      "name": "Apple iPhone 11",
+      "description": "Descrição do produto",
+      "price": 8000
+    },
+    {
+      "id": 2,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIk3X1j4v0G93EaV-ceCFDOkl69TkSnlzdvE7BZu2eBgtVrGPZV69GfMZ9QWH5J_7LJDsahgXu&usqp=CAc",
+      "name": "Galaxy S20",
+      "description": "Descrição do produto",
+      "price": 3999
+    },
+    {
+      "id": 3,
+      "photo": "https://acerstore.vteximg.com.br/arquivos/ids/157385-900-900/01.jpg?v=637363177661130000",
+      "name": "NoteBook Acer Aspire",
+      "description": "Descrição do produto",
+      "price": 3149
+    },
+    {
+      "id": 4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71an9eiBxpL._AC_SL1500_.jpg",
+      "name": "MacBook Pro",
+      "description": "Descrição do produto",
+      "price": 9889
+    },
+    {
+      "id": 5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71IocB4x93L._AC_SL1500_.jpg",
+      "name": "Apple Watch Series 6",
+      "description": "Descrição do produto",
+      "price": 3100
+    },
+    {
+      "id": 6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/618dwmLh2XL._AC_SL1500_.jpg",
+      "name": "NoteBook VAIO",
+      "description": "Descrição do produto",
+      "price": 4690
+    },
+    {
+      "id": 7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61fKEW4Ms4L._AC_SL1000_.jpg",
+      "name": "SmartTv LG",
+      "description": "Descrição do produto",
+      "price": 1690
+    },
+    {
+      "id": 8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71bIv4CMRCL._AC_SL1500_.jpg",
+      "name": "Apple iPad",
+      "description": "Descrição do produto",
+      "price": 2490
+    }
+  ]
+}
